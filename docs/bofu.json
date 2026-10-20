@@ -1,0 +1,1245 @@
+{
+ "meta": {
+  "title": "Bottom-of-funnel content tracker",
+  "niche": "AI agents and automation for hotel front desk, guest service, and staffing operations",
+  "you": "Dextr",
+  "generated": "2026-10-20T02:46:42+00:00",
+  "state_updated": "2026-10-20T02:38:45+00:00",
+  "repo": "nico497/Dextr-AI"
+ },
+ "types": [
+  [
+   "vs_you",
+   "Us vs. them"
+  ],
+  [
+   "alt",
+   "Alternatives"
+  ],
+  [
+   "switch",
+   "Switching and migration"
+  ],
+  [
+   "pricing",
+   "Rival pricing breakdowns"
+  ],
+  [
+   "vs_rivals",
+   "Rival vs. rival"
+  ],
+  [
+   "best",
+   "Best-of and roundups"
+  ],
+  [
+   "case",
+   "Case and customer stories"
+  ]
+ ],
+ "sites": [
+  {
+   "name": "Dextr",
+   "tracked": 41,
+   "considered": 36,
+   "own_pricing": null,
+   "hubs": [
+    "https://www.dextr.ai/case-studies/"
+   ]
+  },
+  {
+   "name": "Canary Technologies",
+   "tracked": 511,
+   "considered": 183,
+   "own_pricing": "https://www.canarytechnologies.com/pricing",
+   "hubs": [
+    "https://www.canarytechnologies.com/customers"
+   ]
+  },
+  {
+   "name": "ALICE (Actabl)",
+   "tracked": 581,
+   "considered": 580,
+   "own_pricing": null,
+   "hubs": []
+  },
+  {
+   "name": "Volara",
+   "tracked": 0,
+   "considered": 0,
+   "own_pricing": null,
+   "hubs": []
+  },
+  {
+   "name": "Akia",
+   "tracked": 363,
+   "considered": 192,
+   "own_pricing": "https://www.akia.com/pricing",
+   "hubs": [
+    "https://www.akia.com/case-studies"
+   ]
+  },
+  {
+   "name": "Duve",
+   "tracked": 250,
+   "considered": 248,
+   "own_pricing": "https://duve.com/pricing/",
+   "hubs": [
+    "https://duve.com/case-studies/"
+   ]
+  },
+  {
+   "name": "Operto",
+   "tracked": 381,
+   "considered": 380,
+   "own_pricing": "https://operto.com/pricing/",
+   "hubs": [
+    "https://operto.com/case-studies/"
+   ]
+  }
+ ],
+ "vendors": [
+  "Canary Technologies",
+  "ALICE (Actabl)",
+  "Volara",
+  "Akia",
+  "Duve",
+  "Operto",
+  "Dextr",
+  "Whistle Messaging",
+  "Zingle",
+  "Medallia Concierge",
+  "ASAPP",
+  "Hospitable",
+  "Beekeeper",
+  "Quore",
+  "HotelKey",
+  "Mews"
+ ],
+ "excluded": {
+  "webinars, glossary, events and category pages": 275,
+  "templated pages": 233
+ },
+ "pages": [
+  {
+   "site": "Dextr",
+   "url": "https://www.dextr.ai/case-studies/elis-retreat-rv-park/",
+   "path": "/case-studies/elis-retreat-rv-park",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Dextr",
+   "url": "https://www.dextr.ai/case-studies/housekeeping-intelligence/",
+   "path": "/case-studies/housekeeping-intelligence",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Dextr",
+   "url": "https://www.dextr.ai/case-studies/housekeeping-labour/",
+   "path": "/case-studies/housekeeping-labour",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Dextr",
+   "url": "https://www.dextr.ai/case-studies/la-vista-hot-springs-resort/",
+   "path": "/case-studies/la-vista-hot-springs-resort",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Dextr",
+   "url": "https://www.dextr.ai/case-studies/las-pinos-campground/",
+   "path": "/case-studies/las-pinos-campground",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Dextr",
+   "url": "https://www.dextr.ai/case-studies/ota-review-score-improvement/",
+   "path": "/case-studies/ota-review-score-improvement",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Dextr",
+   "url": "https://www.dextr.ai/case-studies/reservation-contact-centers/",
+   "path": "/case-studies/reservation-contact-centers",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Dextr",
+   "url": "https://www.dextr.ai/case-studies/the-hendrix/",
+   "path": "/case-studies/the-hendrix",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/alii-resorts-llc",
+   "path": "/customers/alii-resorts-llc",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/basecamp-properties",
+   "path": "/customers/basecamp-properties",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/beaumier",
+   "path": "/customers/beaumier",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/bergwelt-grindelwald",
+   "path": "/customers/bergwelt-grindelwald",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/bespoke-hotels",
+   "path": "/customers/bespoke-hotels",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/best-western-coral-hills",
+   "path": "/customers/best-western-coral-hills",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/best-western-gold-rush-inn",
+   "path": "/customers/best-western-gold-rush-inn",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/best-western-plus-truckee",
+   "path": "/customers/best-western-plus-truckee",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/best-western-plus-west-edmonton",
+   "path": "/customers/best-western-plus-west-edmonton",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/best-western-sunrise-inn-suites",
+   "path": "/customers/best-western-sunrise-inn-suites",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/brochner-hotels",
+   "path": "/customers/brochner-hotels",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/cambria",
+   "path": "/customers/cambria",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/cape-codder-resort",
+   "path": "/customers/cape-codder-resort",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/capri-tiberio-palace",
+   "path": "/customers/capri-tiberio-palace",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/casa-faena",
+   "path": "/customers/casa-faena",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/civilian-hotel",
+   "path": "/customers/civilian-hotel",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/clarion-pointe-greensboro-airport",
+   "path": "/customers/clarion-pointe-greensboro-airport",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/classic-hotels-resorts",
+   "path": "/customers/classic-hotels-resorts",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/coeur-dalene",
+   "path": "/customers/coeur-dalene",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/corduroy-inn",
+   "path": "/customers/corduroy-inn",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/crowne-plaza-newcastle",
+   "path": "/customers/crowne-plaza-newcastle",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/crowne-plaza-perth",
+   "path": "/customers/crowne-plaza-perth",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/days-inn-by-wyndham-saskatoon",
+   "path": "/customers/days-inn-by-wyndham-saskatoon",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/dream-hollywood",
+   "path": "/customers/dream-hollywood",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/dream-inn-santa-cruz",
+   "path": "/customers/dream-inn-santa-cruz",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/elements-of-byron",
+   "path": "/customers/elements-of-byron",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/flanigans-resort-spa",
+   "path": "/customers/flanigans-resort-spa",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/galleria-vik-milano",
+   "path": "/customers/galleria-vik-milano",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/garden-city-hotel",
+   "path": "/customers/garden-city-hotel",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/gila-river-resorts-casinos",
+   "path": "/customers/gila-river-resorts-casinos",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/holiday-inn-express-suites-at-orlandos-seaworld",
+   "path": "/customers/holiday-inn-express-suites-at-orlandos-seaworld",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/holiday-inn-paris",
+   "path": "/customers/holiday-inn-paris",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/hotel-camiral",
+   "path": "/customers/hotel-camiral",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/hotel-covington",
+   "path": "/customers/hotel-covington",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/hotel-june-malibu",
+   "path": "/customers/hotel-june-malibu",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/hotel-zephyr",
+   "path": "/customers/hotel-zephyr",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/hotellepashmina",
+   "path": "/customers/hotellepashmina",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/how-doubletree-denver-uses-canarys-digital-tipping-to-recognize-its-drivers",
+   "path": "/customers/how-doubletree-denver-uses-canarys-digital-tipping-to-recognize-its-drivers",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/how-the-clarion-hotel-suites-winnipeg-reduced-fraud-chargebacks-with-canary",
+   "path": "/customers/how-the-clarion-hotel-suites-winnipeg-reduced-fraud-chargebacks-with-canary",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/hyatt-place-durham-southpoint",
+   "path": "/customers/hyatt-place-durham-southpoint",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/inness-luxury-resort",
+   "path": "/customers/inness-luxury-resort",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/intercontinental-sydney-coogee-beach",
+   "path": "/customers/intercontinental-sydney-coogee-beach",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/lark-hotels",
+   "path": "/customers/lark-hotels",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/linchris-hotel-1620",
+   "path": "/customers/linchris-hotel-1620",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/linchris-hotels",
+   "path": "/customers/linchris-hotels",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/lodge-at-breckenridge",
+   "path": "/customers/lodge-at-breckenridge",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/made-hotel-nyc",
+   "path": "/customers/made-hotel-nyc",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/mangias",
+   "path": "/customers/mangias",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/marriott-springhill-suites-orlando",
+   "path": "/customers/marriott-springhill-suites-orlando",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/mr-c-coconut-grove-sustainability-transformation",
+   "path": "/customers/mr-c-coconut-grove-sustainability-transformation",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/nomads",
+   "path": "/customers/nomads",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/pinnacle",
+   "path": "/customers/pinnacle",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/plamondon-hospitality",
+   "path": "/customers/plamondon-hospitality",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/point-hotel",
+   "path": "/customers/point-hotel",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/preferred-hotels-resorts-property",
+   "path": "/customers/preferred-hotels-resorts-property",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/remington-hotels-mobile-keys",
+   "path": "/customers/remington-hotels-mobile-keys",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/rosas-y-xocolate-hotel-success-story",
+   "path": "/customers/rosas-y-xocolate-hotel-success-story",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/the-commonwealth",
+   "path": "/customers/the-commonwealth",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/the-copthorne-tara-london",
+   "path": "/customers/the-copthorne-tara-london",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/the-line-sf",
+   "path": "/customers/the-line-sf",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/the-mandolay-hotel",
+   "path": "/customers/the-mandolay-hotel",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/the-pines-resort",
+   "path": "/customers/the-pines-resort",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/the-wigwam",
+   "path": "/customers/the-wigwam",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/trapp-family-lodge",
+   "path": "/customers/trapp-family-lodge",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/waypoint-hotel",
+   "path": "/customers/waypoint-hotel",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/williamsburg-lodge",
+   "path": "/customers/williamsburg-lodge",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/xv-beacon-hotel",
+   "path": "/customers/xv-beacon-hotel",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/yavapai-lodge",
+   "path": "/customers/yavapai-lodge",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "ALICE (Actabl)",
+   "url": "https://actabl.com/resources/aperture-hotels-protected-returns-hotel-effectiveness-case-study/",
+   "path": "/resources/aperture-hotels-protected-returns-hotel-effectiveness-case-study",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "ALICE (Actabl)",
+   "url": "https://actabl.com/resources/case-study-noble-house-automated-messaging/",
+   "path": "/resources/case-study-noble-house-automated-messaging",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "ALICE (Actabl)",
+   "url": "https://actabl.com/resources/case-study-san-luis/",
+   "path": "/resources/case-study-san-luis",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "ALICE (Actabl)",
+   "url": "https://actabl.com/resources/case-study-wymara/",
+   "path": "/resources/case-study-wymara",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "ALICE (Actabl)",
+   "url": "https://actabl.com/resources/hotel-equities-labor-management-case-study/",
+   "path": "/resources/hotel-equities-labor-management-case-study",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "ALICE (Actabl)",
+   "url": "https://actabl.com/resources/onvo-labor-cost-control-case-study/",
+   "path": "/resources/onvo-labor-cost-control-case-study",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "ALICE (Actabl)",
+   "url": "https://actabl.com/resources/vhg-forecast-to-labor-plan-case-study/",
+   "path": "/resources/vhg-forecast-to-labor-plan-case-study",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "ALICE (Actabl)",
+   "url": "https://actabl.com/resources/wischermann-partners-case-study/",
+   "path": "/resources/wischermann-partners-case-study",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/10k-to-0-in-fraud-bookings",
+   "path": "/case-studies/10k-to-0-in-fraud-bookings",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/ai-agents-keep-guest-messaging-consistent-across-its-international-team",
+   "path": "/case-studies/ai-agents-keep-guest-messaging-consistent-across-its-international-team",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/akia-enables-easy-communication-in-foreign-languages",
+   "path": "/case-studies/akia-enables-easy-communication-in-foreign-languages",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/akia-helps-run-safe-and-contactless-operations",
+   "path": "/case-studies/akia-helps-run-safe-and-contactless-operations",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/automate-arrivals-with-text-messaging-and-digital-keys",
+   "path": "/case-studies/automate-arrivals-with-text-messaging-and-digital-keys",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/bring-operational-excellence-with-tighter-integration",
+   "path": "/case-studies/bring-operational-excellence-with-tighter-integration",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/circle-hotel-fairfield-drives-125k-in-4-months-with-marketing-suite",
+   "path": "/case-studies/circle-hotel-fairfield-drives-125k-in-4-months-with-marketing-suite",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/climb-300-ranks-on-tripadvisor",
+   "path": "/case-studies/climb-300-ranks-on-tripadvisor",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/climb-300-ranks-on-tripadvisor-2",
+   "path": "/case-studies/climb-300-ranks-on-tripadvisor-2",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/cut-operational-cost-with-centralized-communication",
+   "path": "/case-studies/cut-operational-cost-with-centralized-communication",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/deliver-door-locks-50-faster",
+   "path": "/case-studies/deliver-door-locks-50-faster",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/deliver-high-end-staff-less-operations",
+   "path": "/case-studies/deliver-high-end-staff-less-operations",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/faria-resorts-drove-89k-in-post-stay-revenue-in-one-month",
+   "path": "/case-studies/faria-resorts-drove-89k-in-post-stay-revenue-in-one-month",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/generate-2x-revenue",
+   "path": "/case-studies/generate-2x-revenue",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/get-everyone-up-to-speed",
+   "path": "/case-studies/get-everyone-up-to-speed",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/hotel-van-zandt-replaces-3-tools-with-akia",
+   "path": "/case-studies/hotel-van-zandt-replaces-3-tools-with-akia",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/how-an-eos-hospitality-property-manages-communication-for-their-hotel-and-the-spa-bookings",
+   "path": "/case-studies/how-an-eos-hospitality-property-manages-communication-for-their-hotel-and-the-spa-bookings",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/imprint-hospitality-drives-marketing-revenue-across-its-portfolio",
+   "path": "/case-studies/imprint-hospitality-drives-marketing-revenue-across-its-portfolio",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/increased-hotel-revenue-through-akia-guest-messaging",
+   "path": "/case-studies/increased-hotel-revenue-through-akia-guest-messaging",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/leave-no-guests-unattended",
+   "path": "/case-studies/leave-no-guests-unattended",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/leverage-akia-and-quore-to-eliminate-middlemen",
+   "path": "/case-studies/leverage-akia-and-quore-to-eliminate-middlemen",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/leveraging-sms-marketing-to-drive-more-bookings",
+   "path": "/case-studies/leveraging-sms-marketing-to-drive-more-bookings",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/mari-jean-hotel-eliminate-manual-data-entry",
+   "path": "/case-studies/mari-jean-hotel-eliminate-manual-data-entry",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/mohicans-treehouse-capturing-revenue-from-last-minute-buyers",
+   "path": "/case-studies/mohicans-treehouse-capturing-revenue-from-last-minute-buyers",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/one-stop-solution",
+   "path": "/case-studies/one-stop-solution",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/operate-staff-free-with-akia-x-remotelock",
+   "path": "/case-studies/operate-staff-free-with-akia-x-remotelock",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/oswego-hotel-cut-front-desk-workload-by-eliminating-paperwork",
+   "path": "/case-studies/oswego-hotel-cut-front-desk-workload-by-eliminating-paperwork",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/pre-arrival-automated-less-time-responding-more-revenue-per-stay",
+   "path": "/case-studies/pre-arrival-automated-less-time-responding-more-revenue-per-stay",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/prioritizing-guest-experience",
+   "path": "/case-studies/prioritizing-guest-experience",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/providing-personalized-experience-through-akias-text-messaging",
+   "path": "/case-studies/providing-personalized-experience-through-akias-text-messaging",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/rambla-a-contactless-property-maintains-high-guest-services-with-ai-agents",
+   "path": "/case-studies/rambla-a-contactless-property-maintains-high-guest-services-with-ai-agents",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/read-how-cedar-lakes-estate-did-20k-in-upsell-revenue",
+   "path": "/case-studies/read-how-cedar-lakes-estate-did-20k-in-upsell-revenue",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/redamo-suites-5-star-experiences-without-a-front-desk",
+   "path": "/case-studies/redamo-suites-5-star-experiences-without-a-front-desk",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/reduce-no-shows-with-akia-webrezpro-integration",
+   "path": "/case-studies/reduce-no-shows-with-akia-webrezpro-integration",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/revival-hotels-generates-13k-in-post-stay-bookings-after-switching-to-akia",
+   "path": "/case-studies/revival-hotels-generates-13k-in-post-stay-bookings-after-switching-to-akia",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/revival-hotels-is-pioneering-invisible-hospitality-with-akias-guest-journey-platform",
+   "path": "/case-studies/revival-hotels-is-pioneering-invisible-hospitality-with-akias-guest-journey-platform",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/secure-positive-guest-experiences",
+   "path": "/case-studies/secure-positive-guest-experiences",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/staying-connected-no-matter-the-distance",
+   "path": "/case-studies/staying-connected-no-matter-the-distance",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/staypineapple",
+   "path": "/case-studies/staypineapple",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/streamlining-operations-with-akia",
+   "path": "/case-studies/streamlining-operations-with-akia",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/syncing-data-from-their-pms-to-automate-their-journey",
+   "path": "/case-studies/syncing-data-from-their-pms-to-automate-their-journey",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/take-the-busy-out-of-business",
+   "path": "/case-studies/take-the-busy-out-of-business",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/the-chandler-hotel-24-7-coverage-with-ai-agents",
+   "path": "/case-studies/the-chandler-hotel-24-7-coverage-with-ai-agents",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/the-mohicans-high-end-retreat-in-an-off-the-grid-location",
+   "path": "/case-studies/the-mohicans-high-end-retreat-in-an-off-the-grid-location",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/turning-upsells-into-4x-roi",
+   "path": "/case-studies/turning-upsells-into-4x-roi",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/villa-toscana-bed-breakfast-cuts-constant-interruptions-and-drove-revenue",
+   "path": "/case-studies/villa-toscana-bed-breakfast-cuts-constant-interruptions-and-drove-revenue",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/weekender-hotels-simplifying-multi-property-operations",
+   "path": "/case-studies/weekender-hotels-simplifying-multi-property-operations",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/werfy-doubled-revenue-in-their-slowest-months",
+   "path": "/case-studies/werfy-doubled-revenue-in-their-slowest-months",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Duve",
+   "url": "https://duve.com/astotel-case-study/",
+   "path": "/astotel-case-study",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Duve",
+   "url": "https://duve.com/charles-hope-case-study/",
+   "path": "/charles-hope-case-study",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Duve",
+   "url": "https://duve.com/customer-stories-altido/",
+   "path": "/customer-stories-altido",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Duve",
+   "url": "https://duve.com/customer-stories-bosque-del-nahuel/",
+   "path": "/customer-stories-bosque-del-nahuel",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Duve",
+   "url": "https://duve.com/customer-stories-brown/",
+   "path": "/customer-stories-brown",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Duve",
+   "url": "https://duve.com/hostnfly-case-study/",
+   "path": "/hostnfly-case-study",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Duve",
+   "url": "https://duve.com/les-bulles-de-paris-case-study/",
+   "path": "/les-bulles-de-paris-case-study",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Duve",
+   "url": "https://duve.com/merrill-houses-case-study/",
+   "path": "/merrill-houses-case-study",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Operto",
+   "url": "https://operto.com/case-study/annex-hotel-case-study/",
+   "path": "/case-study/annex-hotel-case-study",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Operto",
+   "url": "https://operto.com/case-study/breakfast-hotel-hiroshima/",
+   "path": "/case-study/breakfast-hotel-hiroshima",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Operto",
+   "url": "https://operto.com/case-study/cactus-vacation-rental/",
+   "path": "/case-study/cactus-vacation-rental",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Operto",
+   "url": "https://operto.com/case-study/case-study-alaska-frontier-inn/",
+   "path": "/case-study/case-study-alaska-frontier-inn",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Operto",
+   "url": "https://operto.com/case-study/case-study-cribs-on-main/",
+   "path": "/case-study/case-study-cribs-on-main",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Operto",
+   "url": "https://operto.com/case-study/case-study-inn-on-the-drive/",
+   "path": "/case-study/case-study-inn-on-the-drive",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Operto",
+   "url": "https://operto.com/case-study/case-study-wharfside-village-hotel/",
+   "path": "/case-study/case-study-wharfside-village-hotel",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Operto",
+   "url": "https://operto.com/case-study/clean-getaways-case-study/",
+   "path": "/case-study/clean-getaways-case-study",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Operto",
+   "url": "https://operto.com/case-study/corduroy-suites-case-study/",
+   "path": "/case-study/corduroy-suites-case-study",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Operto",
+   "url": "https://operto.com/case-study/cozyhaus/",
+   "path": "/case-study/cozyhaus",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Operto",
+   "url": "https://operto.com/case-study/hps-case-study/",
+   "path": "/case-study/hps-case-study",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Operto",
+   "url": "https://operto.com/case-study/little-city-case-study/",
+   "path": "/case-study/little-city-case-study",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Operto",
+   "url": "https://operto.com/case-study/mountain-creek-resort-hotel/",
+   "path": "/case-study/mountain-creek-resort-hotel",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Operto",
+   "url": "https://operto.com/case-study/npr-vacation-rentals/",
+   "path": "/case-study/npr-vacation-rentals",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Operto",
+   "url": "https://operto.com/case-study/oasis-stay-case-study/",
+   "path": "/case-study/oasis-stay-case-study",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Operto",
+   "url": "https://operto.com/case-study/prague-residences-case-study/",
+   "path": "/case-study/prague-residences-case-study",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Operto",
+   "url": "https://operto.com/case-study/roomza-innovative-case-study/",
+   "path": "/case-study/roomza-innovative-case-study",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Operto",
+   "url": "https://operto.com/case-study/sophies-gasthaus/",
+   "path": "/case-study/sophies-gasthaus",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Operto",
+   "url": "https://operto.com/case-study/wyman-hotel-case-study/",
+   "path": "/case-study/wyman-hotel-case-study",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Operto",
+   "url": "https://operto.com/one_old/customer-stories/",
+   "path": "/one_old/customer-stories",
+   "type": "case",
+   "targets": []
+  }
+ ]
+}
