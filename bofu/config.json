@@ -1,0 +1,53 @@
+{
+  "title": "Bottom-of-funnel content tracker",
+  "niche": "AI agents and automation for hotel front desk, guest service, and staffing operations",
+  "you": "Dextr",
+  "competitors": [
+    "Canary Technologies",
+    "ALICE (Actabl)",
+    "Volara",
+    "Akia",
+    "Duve",
+    "Operto"
+  ],
+  "vendors": {
+    "Canary Technologies": "canary technologies|canary ?ai",
+    "ALICE (Actabl)": "\\balice\\b(?! in wonderland)|actabl",
+    "Volara": "volara",
+    "Akia": "\\bakia\\b",
+    "Duve": "\\bduve\\b",
+    "Operto": "operto",
+    "Dextr": "\\bdextr\\b",
+    "Whistle Messaging": "whistle messaging",
+    "Zingle": "zingle",
+    "Medallia Concierge": "medallia concierge",
+    "ASAPP": "\\basapp\\b",
+    "Hospitable": "hospitable",
+    "Beekeeper": "beekeeper",
+    "Quore": "quore",
+    "HotelKey": "hotelkey",
+    "Mews": "\\bmews\\b"
+  },
+  "audiences": [
+    ["AI guest service agents", "ai (guest service|concierge) agent"],
+    ["Front desk automation", "front desk automation|front desk ai"],
+    ["Hotel staffing and labor", "staffing|labor shortage|hotel staffing"],
+    ["Guest messaging", "guest messaging|sms concierge|text messaging"],
+    ["Upsell and revenue", "upsell|ancillary revenue|revenue management"],
+    ["Contact center and call automation", "call center|phone agent|voice ai"],
+    ["Property management system integration", "\\bpms\\b integration|property management system"],
+    ["Guest experience and satisfaction", "guest experience|guest satisfaction|\\bcsat\\b"],
+    ["Multilingual support", "multilingual|multi.?language"],
+    ["Housekeeping and operations", "housekeeping|operations automation"],
+    ["Check-in and check-out automation", "contactless check.?in|self check.?in|check.?out automation"],
+    ["Review management and reputation", "review management|online reputation"],
+    ["Independent hotels and boutique", "independent hotel|boutique hotel"],
+    ["Hotel groups and enterprise", "hotel group|enterprise hospitality|multi.?property"],
+    ["Vacation rental and short-term rental", "vacation rental|short.?term rental"],
+    ["Pricing and ROI", "pricing|\\broi\\b|cost savings"],
+    ["Integrations and ecosystem", "integration|\\bapi\\b|marketplace"],
+    ["Comparisons and alternatives", "alternative|vs\\.|comparison"],
+    ["Customer stories and case studies", "case study|customer story"],
+    ["Product updates and releases", "product update|new feature|launch"]
+  ]
+}
