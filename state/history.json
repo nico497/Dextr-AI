@@ -95,6 +95,54 @@
      "pages": 383
     }
    }
+  },
+  {
+   "week": "2026-W45",
+   "date": "2026-11-02T16:06:50+00:00",
+   "sites": {
+    "Dextr": {
+     "new": 0,
+     "updated": 0,
+     "removed": 0,
+     "pages": 41
+    },
+    "Canary Technologies": {
+     "new": 0,
+     "updated": 0,
+     "removed": 0,
+     "pages": 278
+    },
+    "ALICE (Actabl)": {
+     "new": 3,
+     "updated": 7,
+     "removed": 0,
+     "pages": 587
+    },
+    "Volara": {
+     "new": 0,
+     "updated": 0,
+     "removed": 0,
+     "pages": 0
+    },
+    "Akia": {
+     "new": 1,
+     "updated": 6,
+     "removed": 0,
+     "pages": 375
+    },
+    "Duve": {
+     "new": 0,
+     "updated": 0,
+     "removed": 0,
+     "pages": 251
+    },
+    "Operto": {
+     "new": 2,
+     "updated": 5,
+     "removed": 8,
+     "pages": 376
+    }
+   }
   }
  ]
 }
