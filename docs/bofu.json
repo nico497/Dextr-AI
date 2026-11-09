@@ -3,7 +3,7 @@
   "title": "Bottom-of-funnel content tracker",
   "niche": "AI agents and automation for hotel front desk, guest service, and staffing operations",
   "you": "Dextr",
-  "generated": "2026-11-02T16:12:22+00:00",
+  "generated": "2026-11-09T16:42:12+00:00",
   "state_updated": "2026-10-20T02:38:45+00:00",
   "repo": "nico497/Dextr-AI"
  },
@@ -49,8 +49,8 @@
   },
   {
    "name": "Canary Technologies",
-   "tracked": 511,
-   "considered": 183,
+   "tracked": 524,
+   "considered": 186,
    "own_pricing": "https://www.canarytechnologies.com/pricing",
    "hubs": [
     "https://www.canarytechnologies.com/customers"
@@ -58,8 +58,8 @@
   },
   {
    "name": "ALICE (Actabl)",
-   "tracked": 587,
-   "considered": 586,
+   "tracked": 588,
+   "considered": 587,
    "own_pricing": null,
    "hubs": []
   },
@@ -81,8 +81,8 @@
   },
   {
    "name": "Duve",
-   "tracked": 251,
-   "considered": 249,
+   "tracked": 252,
+   "considered": 250,
    "own_pricing": "https://duve.com/pricing/",
    "hubs": [
     "https://duve.com/case-studies/"
@@ -90,8 +90,8 @@
   },
   {
    "name": "Operto",
-   "tracked": 384,
-   "considered": 383,
+   "tracked": 399,
+   "considered": 398,
    "own_pricing": "https://operto.com/pricing/",
    "hubs": [
     "https://operto.com/case-studies/"
@@ -117,8 +117,8 @@
   "Mews"
  ],
  "excluded": {
-  "webinars, glossary, events and category pages": 275,
-  "templated pages": 233
+  "webinars, glossary, events and category pages": 279,
+  "templated pages": 239
  },
  "pages": [
   {
@@ -333,8 +333,22 @@
   },
   {
    "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/das-aunhamer-new",
+   "path": "/customers/das-aunhamer-new",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
    "url": "https://www.canarytechnologies.com/customers/days-inn-by-wyndham-saskatoon",
    "path": "/customers/days-inn-by-wyndham-saskatoon",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/deluna-hotels",
+   "path": "/customers/deluna-hotels",
    "type": "case",
    "targets": []
   },
@@ -363,6 +377,13 @@
    "site": "Canary Technologies",
    "url": "https://www.canarytechnologies.com/customers/flanigans-resort-spa",
    "path": "/customers/flanigans-resort-spa",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Canary Technologies",
+   "url": "https://www.canarytechnologies.com/customers/gale-miami-hotel",
+   "path": "/customers/gale-miami-hotel",
    "type": "case",
    "targets": []
   },
@@ -1110,6 +1131,20 @@
   },
   {
    "site": "Operto",
+   "url": "https://operto.com/case-study/alaska-frontier-inn/",
+   "path": "/case-study/alaska-frontier-inn",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Operto",
+   "url": "https://operto.com/case-study/annex-hotel/",
+   "path": "/case-study/annex-hotel",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Operto",
    "url": "https://operto.com/case-study/annex-hotel-case-study/",
    "path": "/case-study/annex-hotel-case-study",
    "type": "case",
@@ -1159,8 +1194,22 @@
   },
   {
    "site": "Operto",
+   "url": "https://operto.com/case-study/clean-getaways/",
+   "path": "/case-study/clean-getaways",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Operto",
    "url": "https://operto.com/case-study/clean-getaways-case-study/",
    "path": "/case-study/clean-getaways-case-study",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Operto",
+   "url": "https://operto.com/case-study/corduroy-suites/",
+   "path": "/case-study/corduroy-suites",
    "type": "case",
    "targets": []
   },
@@ -1180,8 +1229,36 @@
   },
   {
    "site": "Operto",
+   "url": "https://operto.com/case-study/cribs-on-main/",
+   "path": "/case-study/cribs-on-main",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Operto",
+   "url": "https://operto.com/case-study/holiday-property-service/",
+   "path": "/case-study/holiday-property-service",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Operto",
    "url": "https://operto.com/case-study/hps-case-study/",
    "path": "/case-study/hps-case-study",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Operto",
+   "url": "https://operto.com/case-study/inn-on-the-drive/",
+   "path": "/case-study/inn-on-the-drive",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Operto",
+   "url": "https://operto.com/case-study/little-city/",
+   "path": "/case-study/little-city",
    "type": "case",
    "targets": []
   },
@@ -1208,6 +1285,13 @@
   },
   {
    "site": "Operto",
+   "url": "https://operto.com/case-study/oasis-stay/",
+   "path": "/case-study/oasis-stay",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Operto",
    "url": "https://operto.com/case-study/oasis-stay-case-study/",
    "path": "/case-study/oasis-stay-case-study",
    "type": "case",
@@ -1215,8 +1299,22 @@
   },
   {
    "site": "Operto",
+   "url": "https://operto.com/case-study/prague-residences/",
+   "path": "/case-study/prague-residences",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Operto",
    "url": "https://operto.com/case-study/prague-residences-case-study/",
    "path": "/case-study/prague-residences-case-study",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Operto",
+   "url": "https://operto.com/case-study/roomza/",
+   "path": "/case-study/roomza",
    "type": "case",
    "targets": []
   },
@@ -1231,6 +1329,20 @@
    "site": "Operto",
    "url": "https://operto.com/case-study/sophies-gasthaus/",
    "path": "/case-study/sophies-gasthaus",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Operto",
+   "url": "https://operto.com/case-study/wharfside-village-hotel/",
+   "path": "/case-study/wharfside-village-hotel",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Operto",
+   "url": "https://operto.com/case-study/wyman-hotel/",
+   "path": "/case-study/wyman-hotel",
    "type": "case",
    "targets": []
   },
