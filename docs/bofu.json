@@ -3,7 +3,7 @@
   "title": "Bottom-of-funnel content tracker",
   "niche": "AI agents and automation for hotel front desk, guest service, and staffing operations",
   "you": "Dextr",
-  "generated": "2026-11-09T16:42:12+00:00",
+  "generated": "2026-11-16T16:00:05+00:00",
   "state_updated": "2026-10-20T02:38:45+00:00",
   "repo": "nico497/Dextr-AI"
  },
@@ -40,8 +40,8 @@
  "sites": [
   {
    "name": "Dextr",
-   "tracked": 41,
-   "considered": 36,
+   "tracked": 45,
+   "considered": 40,
    "own_pricing": null,
    "hubs": [
     "https://www.dextr.ai/case-studies/"
@@ -58,8 +58,8 @@
   },
   {
    "name": "ALICE (Actabl)",
-   "tracked": 588,
-   "considered": 587,
+   "tracked": 590,
+   "considered": 589,
    "own_pricing": null,
    "hubs": []
   },
@@ -72,8 +72,8 @@
   },
   {
    "name": "Akia",
-   "tracked": 375,
-   "considered": 204,
+   "tracked": 377,
+   "considered": 206,
    "own_pricing": "https://www.akia.com/pricing",
    "hubs": [
     "https://www.akia.com/case-studies"
@@ -986,6 +986,13 @@
    "site": "Akia",
    "url": "https://www.akia.com/case-studies/revival-hotels-is-pioneering-invisible-hospitality-with-akias-guest-journey-platform",
    "path": "/case-studies/revival-hotels-is-pioneering-invisible-hospitality-with-akias-guest-journey-platform",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Akia",
+   "url": "https://www.akia.com/case-studies/sandpiper-beacon-ai-voice",
+   "path": "/case-studies/sandpiper-beacon-ai-voice",
    "type": "case",
    "targets": []
   },
